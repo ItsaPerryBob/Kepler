@@ -76,7 +76,7 @@ $ git clone --recursive https://github.com/ItsaPerryBob/Kepler
 **or**
 
 ```
-$ git clone https://github.com/Quackster/Kepler
+$ git clone https://github.com/ItsaPerryBob/Kepler
 $ git submodule update --init --recursive
 ```
 
