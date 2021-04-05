@@ -93,3 +93,4 @@ $ git submodule update --init --recursive
 * Holo Team
 * Meth0d
 * office.boy
+* Quackster
