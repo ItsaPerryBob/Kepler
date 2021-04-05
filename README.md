@@ -70,7 +70,7 @@ The server has many features added, and a lot of configuration settings. Most of
 ## Cloning this repository
 
 ```
-$ git clone --recursive https://github.com/Quackster/Kepler
+$ git clone --recursive https://github.com/ItsaPerryBob/Kepler
 ```
 
 **or**
